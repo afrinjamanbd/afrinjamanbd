@@ -1,15 +1,11 @@
-### Hi there 👋
+### Hola! I am Afrin!!! 👋 
+😍 Unconditional love for Astrophysics! 
 
-<!--
-**afrinjamanbd/afrinjamanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Data Science Projects
-- 👯 I’m looking to collaborate on ... Python Projects
-- 🌱 I’m currently learning ... TensorFlow
-- 📫 How to reach me: ... LinkedIn
-- 💬 Ask me about ... anything
-- 😄 Pronouns: ... She/Her
-- ❤️❤️❤️ I Love Astrophysics...   
--->
+- 🔭 I’m currently working on Python Projects
+- 👯 I’m looking to collaborate on ML and HPC Projects
+- 🌱 I’m currently learning TensorFlow
+- 📫 How to reach me: LinkedIn
+- 💬 Ask me about anything
+- 😄 Pronouns: She/Her  
+- 🏆 Google Summer of Code Winner 2019
+- 🥇 GHC Scholar 2020
