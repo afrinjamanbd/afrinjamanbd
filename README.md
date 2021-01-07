@@ -6,7 +6,7 @@ Passionate for learning and sharing my knowledge with others as much as possible
 - 🔭 I’m currently working on Python and iOS Projects
 - 👯 I’m looking to collaborate on iOS/ML/HPC Projects
 - 🌱 I’m currently learning TensorFlow
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: Gmail
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her  
 - 🥇 GHC Scholar 2020
