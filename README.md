@@ -1,8 +1,8 @@
 ### Hola! I am Afrin!!! 👋 
 
-Looking for full-time opportunity. 
 Recruiters kindly go to this link for my entire project list 
-https://github.com/afrinjamanbd/Project_List
+https://github.com/afrinjamanbd/Project_List 
+Looking for full-time opportunity. 
 
 I love coding. I am working as a backend developer right now but I also have projects on Astrophysics ML projects, iOS and Android projects, High Performance Computing projects. Please feel free to checkout my projects and don't forget to give a star if you like it!
 Passionate for learning and sharing my knowledge with others as much as possible.
