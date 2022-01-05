@@ -10,7 +10,7 @@ Passionate for learning and sharing my knowledge with others as much as possible
 
 - 🔭 I’m currently working on Backend developement and Python Projects
 - 👯 I’m looking to collaborate on Django, Golang and PHP projects
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: Gmail
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her  
