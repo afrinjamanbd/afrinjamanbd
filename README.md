@@ -4,7 +4,7 @@ Recruiters kindly go to this link for my entire project list
 https://github.com/afrinjamanbd/Project_List 
 
 📝 Check out my published SWE articles here
-https://medium.com/me/stories/public
+https://medium.com/@afrinjamanbd
 
 I love coding. I am working as a Senior Software Engineer right now but I also have projects on Astrophysics ML projects, iOS and Android projects, High Performance Computing projects. Please feel free to checkout my projects and don't forget to give a star if you like it!
 Passionate for learning and sharing my knowledge with others as much as possible.
