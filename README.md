@@ -4,7 +4,7 @@ Recruiters kindly go to this link for my entire project list
 https://github.com/afrinjamanbd/Project_List 
 
 ## 📝 Check out my published SWE articles here
-`https://medium.com/@afrinjamanbd`
+`[https://medium.com/@afrinjamanbd](https://medium.com/@afrinjamanbd)`
 
 ## 👩‍🏫 Check out my python and Django courses here
 `https://devskill.com/Course/Detail/professional-programming-with-python`
