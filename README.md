@@ -1,7 +1,4 @@
-### Hola! I am Afrin!!! 👋 
-
-Recruiters kindly go to this link for my entire project list 
-https://github.com/afrinjamanbd/Project_List 
+## Hola! I am Afrin!!! 👋 
 
 ## 📝 Check out my published SWE articles here
 `https://medium.com/@afrinjamanbd`
