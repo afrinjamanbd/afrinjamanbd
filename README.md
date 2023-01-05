@@ -13,7 +13,7 @@ Passionate for learning and sharing my knowledge with others as much as possible
 😍 Unconditional love for Astrophysics! 
 🧐 Looking for full-time opportunity
 
-- 🔭 I’m currently working on Backend developement and Python Projects
+- 🔭 I’m currently working on MERN and Python Projects
 - 👯 I’m looking to collaborate on Django, Golang and Node.js projects
 - 🌱 I’m currently learning Cloud Computing and System Design
 - 📫 How to reach me: Gmail
